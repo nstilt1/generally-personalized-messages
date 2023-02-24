@@ -4,10 +4,9 @@ If you want to have personalized messages without knowing anything about a user,
 Most of the text was written by ChatGPT. The text is meant to have minimal traces of negativity in it.
 
 # Categories
-I will not publicly disclose how these messages are categorized. Just understand that they serve a purpose similar to affirmations. Here is a general idea behind it:
+The messages are grouped by the types of mental health issues they are supposed to address. It doesn't matter if there is any overlap/intersection with the message categories.
 
-Cat1 is generalized messages that don't really address any specific negative emotions.
-Cat2 and Cat3 indirectly address some negative emotions that most people experience regularly.
+Cat1 is for non-negative messages that don't address any issues.
 
 I probably wouldn't spam messages that are only from Cat2 and Cat3. I would probably reserve *at least* 40% of all messages to be from Cat1.
 
